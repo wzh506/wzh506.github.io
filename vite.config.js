@@ -23,7 +23,7 @@ export default defineConfig({
       ],
     }),
   ],
-  base:'/wzh506.github.io',
+  base:'/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
