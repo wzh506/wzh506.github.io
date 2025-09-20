@@ -4,16 +4,16 @@ import { ElIcon } from 'element-plus'
 import { Document, Files, MagicStick, Picture, DataAnalysis, Film } from '@element-plus/icons-vue'
 
 // logo地址，没有则置为""即可
-const logo = './logo.png'
-
+// const logo = './logo.png'
+const logo = ''
 // 标题
-const title = 'Academic Project Page Template'
+const title = 'Zhaohui Wang'
 
 // 标题颜色
 const title_color = '#000000'
 
 // 标题补充，没有则置为''即可
-const title_supp = ' (Vue based)'
+const title_supp = ' 王朝晖 '
 
 // 标题补充颜色
 const title_supp_color = '#42B883'
@@ -26,21 +26,21 @@ const authors = [
   {
     name: "Your Name",
     icon: "./icon/junyaohu.jpg",
-    homepage: "https://junyaohu.github.io/",
-    address_flag: "1,#"
+    homepage: "https://wzh506.github.io/",
+    //address_flag: "1,#"
   },
-  {
-    name: "Anya Forger",
-    icon: "./icon/anya.jpg",
-    homepage: "https://www.bilibili.com/video/BV1jv4y1P7Bb",
-    address_flag: "2,#"
-  },
-  {
-    name: "BugCat Capoo",
-    icon: "./icon/capoo.webp",
-    homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
-    address_flag: "1,*"
-  },
+  //{
+   // name: "Anya Forger",
+    //icon: "./icon/anya.jpg",
+   // homepage: "https://www.bilibili.com/video/BV1jv4y1P7Bb",
+    //address_flag: "2,#"
+  //},
+  // {
+  //   name: "BugCat Capoo",
+  //   icon: "./icon/capoo.webp",
+  //   homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
+  //   address_flag: "1,*"
+  // },
 ]
 
 // 地址清单（包含地址名称、头像、主页、地址序号）
