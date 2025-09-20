@@ -1,4 +1,3 @@
-# Biography
-
 I am currently a PhD student in ele of PKU , advised by Prof. Bocheng Zhu. My research interests focus on Deep Learning in Autonomous Driving and VLA4AD, especially BEV perception and VLA. I actively collaborate with leading industry partners such as BAAI, Momenta and Nio focusing on cutting-edge research in Autonomous Driving. 
+
 If you’re interested in collaborating or would like to connect, feel free to reach out via email (email：wzh2301112147@stu.pku.edu.cn) or Wechat (ID：wzh1606197439)! 
