@@ -24,10 +24,10 @@ const btn_color = '#444444'
 // 作者清单（包含作者姓名、头像、主页、地址序号）
 const authors = [
   {
-    name: "Your Name",
+    name: "Zhaohui Wang",
     icon: "./icon/junyaohu.jpg",
     homepage: "https://wzh506.github.io/",
-    //address_flag: "1,#"
+    address_flag: "1,2"
   },
   //{
    // name: "Anya Forger",
@@ -47,32 +47,32 @@ const authors = [
 const addresses = [
   {
     address_flag: "1",
-    name: "Home University",
+    name: "Xidian University",
     icon: "./icon/home.png",
     homepage: "https://github.com/hmuniversity"
   },
   {
     address_flag: "2",
-    name: "IKUN University",
+    name: "Peking University",
     icon: "./icon/ikun.avif",
     homepage: "https://www.bilibili.com/video/BV178411Y7QB"
   },
 ]
 
 // 共一和通讯提示
-const con_and_corresponding_author = 
-  "#: Equal Contribution. *: Corresponding Author."
+// const con_and_corresponding_author = 
+//   "#: Equal Contribution. *: Corresponding Author."
 
 // 最新消息
-const news = "🔥 [2024-12-15] This template project is still under development."
+const news = "🔥 [2025-09-20] This resume is still under development."
 
 // 强调内容
-const emphases = [
-  "🎉 [ABCD 2024] Poster",
-  "🥰 欢迎关注“减论”微信公众号/B站/知乎/小红书",
-  "传递人工智能算法科普教育的减约理解",
-  "提升信息效率及认知维度"
-]
+// const emphases = [
+//   "🎉 [ABCD 2024] Poster",
+//   "🥰 欢迎关注“减论”微信公众号/B站/知乎/小红书",
+//   "传递人工智能算法科普教育的减约理解",
+//   "提升信息效率及认知维度"
+// ]
 
 // 提供引导资料链接
 const buttons = [
@@ -89,11 +89,11 @@ const buttons = [
   {
     disabled: false,
     name: "Code",
-    link: "https://github.com/JunyaoHu/academic-project-page-template-vue",
+    link: "https://github.com/wzh506",
     component: Files,
   },
   {
-    disabled: false,
+    disabled: true,
     name: "Demo",
     link: "https://junyaohu.github.io/academic-project-page-template-vue",
     component: MagicStick,
@@ -108,18 +108,18 @@ const buttons = [
     name: "Slide",
     component: DataAnalysis,
   },
-  {
-    disabled: false,
-    name: "Video (减论)",
-    link: "https://www.bilibili.com/video/BV15XkgYiE73/",
-    component: Film,
-  },
-  {
-    disabled: false,
-    name: "Video (Tutorial)",
-    link: "https://www.bilibili.com/video/BV1oUrfYzEqZ",
-    component: Film,
-  },
+  // {
+  //   disabled: true,
+  //   name: "Video (减论)",
+  //   link: "https://www.bilibili.com/video/BV15XkgYiE73/",
+  //   component: Film,
+  // },
+  // {
+  //   disabled: false,
+  //   name: "Video (Tutorial)",
+  //   link: "https://www.bilibili.com/video/BV1oUrfYzEqZ",
+  //   component: Film,
+  // },
 ]
 
 </script>
