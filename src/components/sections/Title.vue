@@ -25,7 +25,7 @@ const btn_color = '#444444'
 const authors = [
   {
     name: "Zhaohui Wang",
-    icon: "./icon/junyaohu.jpg",
+    icon: "./icon/zhaohuiwang.jpg",
     homepage: "https://wzh506.github.io/",
     address_flag: "1,2"
   },
@@ -48,14 +48,14 @@ const addresses = [
   {
     address_flag: "1",
     name: "Xidian University",
-    icon: "./icon/home.png",
-    homepage: "https://github.com/hmuniversity"
+    icon: "./icon/xidian.png",
+    homepage: "https://www.xidian.edu.cn"
   },
   {
     address_flag: "2",
     name: "Peking University",
-    icon: "./icon/ikun.avif",
-    homepage: "https://www.bilibili.com/video/BV178411Y7QB"
+    icon: "./icon/pku.png",
+    homepage: "https://www.pku.edu.cn"
   },
 ]
 

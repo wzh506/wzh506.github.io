@@ -6,7 +6,7 @@ import { HomeFilled, SuccessFilled } from '@element-plus/icons-vue'
 // 个人主页
 const home = {
     name: "My Blog",
-    link: "https://junyaohu.github.io/",
+    link: "https://wzh506.github.io/",
 }
 
 // 项目主页
@@ -17,18 +17,18 @@ const logo = {
 
 // 右侧更多菜单
 const more_paper = {
-    "ExtDM": {
-        name: "ExtDM - CVPR 2024",
-        link: "https://zzcheng.top/ExtDM/",
-    },
-    "MPOT": {
-        name: "MPOT - ICCV 2023",
-        link: "https://zzcheng.top/MPOT/",
-    },
-    "ControlNet": {
-        name: "ControlNet - ICCV 2023",
-        link: "https://github.com/lllyasviel/ControlNet",
-    }
+    // "ExtDM": {
+    //     name: "ExtDM - CVPR 2024",
+    //     link: "https://zzcheng.top/ExtDM/",
+    // },
+    // "MPOT": {
+    //     name: "MPOT - ICCV 2023",
+    //     link: "https://zzcheng.top/MPOT/",
+    // },
+    // "ControlNet": {
+    //     name: "ControlNet - ICCV 2023",
+    //     link: "https://github.com/lllyasviel/ControlNet",
+    // }
 }
 
 </script>
